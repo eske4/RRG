@@ -4,7 +4,7 @@ The RunningRouteGeneratorClient is a Unity app designed for a University project
 ## <div align="center">Pages</div>
 ### Main menu
 <div>
-  <img src="https://github.com/eske4/RunningRouteGeneratorClient/blob/main/Images/MainMenu/MainMenu.png" width="150">
+  <img src="https://github.com/eske4/RRG/blob/main/Client/Images/MainMenu/MainMenu.png" width="150">
 </div>
 
 The Main Menu is the starting point where users can either generate a new route or review their route history.
