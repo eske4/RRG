@@ -3,7 +3,7 @@
 **Description:**
 RunningRouteGeneratorMapAPI is a map image generator developed for a university project. The primary objective of this API is to visually represent running routes by drawing maps. An example of the generated map is displayed below:
 
-![Drawn Map](https://github.com/eske4/RunningRouteGeneratorMapAPI/blob/main/Images/DrawMap.png)
+![Drawn Map](https://github.com/eske4/RRG/blob/main/MapAPI/Images/DrawMap.png)
 
 **API Endpoint:**
 
